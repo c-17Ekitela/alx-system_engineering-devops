@@ -1,6 +1,4 @@
 #!/bin/bash
-0 string SCHOOL school data
-!:mime school
-
-then compile using:
-file -C -m  school.mgc 
+0 string SCHOOL
+file -C -m school.magic school.mgc
+file -m school.mgc your_file
