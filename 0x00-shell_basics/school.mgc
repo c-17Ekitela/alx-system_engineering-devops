@@ -1,4 +1,3 @@
 #!/bin/bash
-0 string SCHOOL
 file -C -m school.magic school.mgc
 file -m school.mgc your_file
