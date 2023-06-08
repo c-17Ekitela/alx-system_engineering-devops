@@ -1,2 +1,6 @@
 #!/bin/bash
-file -m school.mgc 
+0 string SCHOOL school data
+!:mime school
+
+then compile using:
+file -C -m  school.mgc 
