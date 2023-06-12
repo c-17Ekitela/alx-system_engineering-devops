@@ -1,2 +1,2 @@
-#!/bin/bash
-grep -c bin /etc/passwd
+#!/bin/bas
+ls -1t | head -10
